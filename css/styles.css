@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    line-height: 1;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    height: 100vh;
+  }
+
+  .h1{
+      font-size: 100 px;
+  }
+  
+  .container{
+    background-color: white;
+  }
+
+  .shop {
+    background-color: blue
+    max-width: 500px;
+    padding: 15px;
+  }
+  
+  .card {
+    background-color:#ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: auto;
+    overflow: hidden;
+  }
+  
+  .card img {
+    float: center;
+    margin-right: 5px;
+  }
+  .card h1 {
+      float: right;
+      font-size: 25px;
+    }
+  
+  .card h3 {
+    float: right;
+    font-size: 20px;
+  }
